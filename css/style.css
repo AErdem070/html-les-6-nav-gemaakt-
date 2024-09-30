@@ -1,0 +1,33 @@
+img{
+   height: 70px;
+}
+
+nav{
+    background-color: lightblue;
+    width: fit-content;
+    height:100vh;
+    padding: 10px;
+    border-radius: 10px;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    padding:10px;
+}
+ul{
+    list-style-type: none;
+}
+
+li{
+    padding:5px;
+    background-color: rgba(0,0,0, 0.2);
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+li:hover{
+    background-color:purple;
+    color: white;
+}
